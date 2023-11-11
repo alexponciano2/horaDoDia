@@ -1,0 +1,66 @@
+/* CSS Document */
+BODY {
+font: normal 9pt Arial;
+color: #000000;
+}
+
+TD {
+font: normal 9pt Arial;
+color: #000000;
+}
+
+.Subtitulo{
+	font: normal 7pt Arial;
+}
+
+.titulo{
+	font: normal 7pt Arial;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.tituloTopo{
+	font: normal 10pt Arial;
+}
+
+.LinhaDigitavel{
+	font: normal 10pt Arial;
+}
+
+.negrito{
+	font: normal 7pt Arial;
+	font-weight: bold;
+}
+
+.bordaEsquerdaFina {border-left:#000000 1px solid;}
+.bordaDireitaFina {border-right:#000000 1px solid;}
+.bordaAbaixoFina {BORDER-BOTTOM:#000000 1px solid}
+.bordaAcimaFina {BORDER-TOP:#000000 1px solid}
+
+.direita { text-align: right }
+.centro { text-align: center }
+.justificado { text-align: justify }
+.capital { text-transform: capitalize }
+.maiuscula { text-transform: uppercase }
+.minuscula { text-transform: lowercase }
+
+a:link {
+font-family: Arial;
+color: #000000;
+text-decoration: none;
+}
+a:visited {
+font-family: Arial;
+color: #000000;
+text-decoration: none;
+}
+a:hover {
+font-family: Arial;
+color: #000000;
+text-decoration: none;
+}
+a:active {
+font-family: Arial;
+color: #000000;
+text-decoration: none;
+}
